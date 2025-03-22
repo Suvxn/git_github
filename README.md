@@ -1,2 +1,2 @@
 # git_github
-author: Suvan 
+author: Suvan (Web developer)
